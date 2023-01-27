@@ -1,4 +1,4 @@
-# Pima_Indians_Diabetes_Project
+# Pima Indians Diabetes Project
 
 
 Pima Indians Diabetes Database
