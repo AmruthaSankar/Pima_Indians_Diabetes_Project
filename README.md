@@ -37,18 +37,18 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 3: EDA - Analysing size, shape, nullvalues, unique values, value counts in the dataset and checking correlation of output variable with 
    input variable and also plot the heatmap
 
-4: Feature engineering
-   Missing value treatment
-   Categorical encoding
+4: Feature engineering -
+   Missing value treatment,
+   Categorical encoding,
    Outlier treatment
 
 5: Train Test split
 
-6: scale down
-   It is done using standardScalar
-   x_train scaled using fit-transform
-   x_test scaled using transform
-   Create pickle file of scale down using joblib
+6: scale down - 
+   It is done using standardScalar ,
+   x_train scaled using fit-transform and
+   x_test scaled using transform and after that we
+   create pickle file of scale down using joblib
 
 
 7: Apply all classification algorithms such as LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, AdaBoostClassifier, 
@@ -58,9 +58,9 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 9: Hyper Parameter Tuning
    Hyperparameter tuning done in all algorithms to find the best model
-   And print train accuracy,test accuracy and best parameter
-   I choose RandomForestClassifier as best model in the basis of accuracy
-   Create pickle file of model using joblib
+   And print train accuracy,test accuracy and best parameter.
+   I choose RandomForestClassifier as best model in the basis of accuracy and
+   create pickle file of model using joblib.
 
   
 
