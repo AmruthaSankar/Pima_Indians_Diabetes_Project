@@ -62,6 +62,6 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
    I choose RandomForestClassifier as best model in the basis of accuracy
    Create pickle file of model using joblib
 
-
+  
 
 
